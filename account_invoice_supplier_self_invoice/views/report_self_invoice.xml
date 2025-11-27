@@ -20,11 +20,11 @@
                         class="o_company_logo_big"
                         alt="Logo"
                     />
-                    <div
-                        t-if="o.partner_id.self_invoice_report_header"
-                        t-field="o.partner_id.self_invoice_report_header"
-                        class="o_company_tagline fw-bold mt-2"
-                    />
+<!--                    <div-->
+<!--                        t-if="o.partner_id.self_invoice_report_header"-->
+<!--                        t-field="o.partner_id.self_invoice_report_header"-->
+<!--                        class="o_company_tagline fw-bold mt-2"-->
+<!--                    />-->
                 </div>
 
                 <div class="w-50 ms-3" name="company_address">
@@ -178,18 +178,24 @@
     </template>
 
     <!-- Report: Invoices with payments -->
+<!--    <template id="report_self_invoice_report" inherit_id="account.report_invoice">-->
+<!--        <xpath expr="//t[@t-foreach='docs']" position="inside">-->
+<!--            <t t-set="is_self_invoice" t-value="o.set_self_invoice" />-->
+<!--        </xpath>-->
+<!--    </template>-->
+
     <template
         id="report_self_invoice_with_payments"
         inherit_id="account.report_invoice_with_payments"
     >
-        <xpath expr="//t[@t-call='account.report_invoice']" position="before">
-            <t t-set="is_self_invoice" t-value="o.set_self_invoice" />
+        <xpath expr="//t[@t-call='account.report_invoice']" position="inside">
+            <t t-set="is_self_invoice" t-value="True" />
         </xpath>
     </template>
 
     <!-- Report: Invoices without payments -->
     <template id="report_self_invoice" inherit_id="account.report_invoice">
-        <xpath expr="//t[@t-call='account.report_invoice_document']" position="before">
+        <xpath expr="//t[@t-foreach='docs']" position="inside">
             <t t-set="is_self_invoice" t-value="o.set_self_invoice" />
         </xpath>
     </template>
