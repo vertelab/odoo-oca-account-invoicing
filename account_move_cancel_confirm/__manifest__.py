@@ -7,7 +7,7 @@
     "author": "Ecosoft, Odoo Community Association (OCA)",
     "category": "Usability",
     "license": "AGPL-3",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_move_cancel_confirm",
     "depends": ["base_cancel_confirm", "account"],
     "installable": True,
     "maintainers": ["kittiu"],

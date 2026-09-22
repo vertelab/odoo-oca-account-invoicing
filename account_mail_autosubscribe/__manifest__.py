@@ -11,7 +11,7 @@
     "license": "AGPL-3",
     "category": "Accounting",
     "depends": ["mail_autosubscribe", "account"],
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_mail_autosubscribe",
     "data": ["data/mail_autosubscribe.xml"],
     "auto_install": True,
 }

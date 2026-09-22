@@ -6,7 +6,7 @@
     "summary": "For invoices targetting multiple sale order add"
     "sections with sale order name.",
     "author": "Camptocamp, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_section_sale_order",
     "license": "AGPL-3",
     "category": "Accounting & Finance",
     "depends": ["account", "sale"],

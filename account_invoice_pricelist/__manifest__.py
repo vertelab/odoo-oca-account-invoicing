@@ -6,7 +6,7 @@
     "summary": "Add partner pricelist on invoices",
     "category": "Accounting & Finance",
     "author": "GRAP," "Therp BV," "Tecnativa," "Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_pricelist",
     "license": "AGPL-3",
     "depends": ["account", "sale_management"],
     "data": ["views/account_invoice_view.xml"],

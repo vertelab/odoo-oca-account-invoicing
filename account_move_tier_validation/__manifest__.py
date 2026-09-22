@@ -6,7 +6,7 @@
     "support a tier validation process.",
     "version": "18.0.1.0.1",
     "category": "Accounts",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_move_tier_validation",
     "author": "PESOL, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,

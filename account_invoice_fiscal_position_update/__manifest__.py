@@ -12,7 +12,7 @@
     "license": "AGPL-3",
     "summary": "Changing the fiscal position of an invoice will auto-update "
     "invoice lines",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_fiscal_position_update",
     "author": "Julius Network Solutions,"
     "Akretion,"
     "Odoo Community Association (OCA)",

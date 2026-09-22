@@ -6,7 +6,7 @@
     "author": "Vauxoo, Odoo Community Association (OCA)",
     "maintainers": ["luisg123v", "CarlosRoca13"],
     "category": "Accounting",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_date_due",
     "license": "AGPL-3",
     "depends": ["account"],
     "demo": [],

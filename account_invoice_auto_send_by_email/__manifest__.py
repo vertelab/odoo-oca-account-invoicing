@@ -9,7 +9,7 @@
     "author": "Camptocamp, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "depends": ["account", "account_invoice_transmit_method", "queue_job"],
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_auto_send_by_email",
     "data": [
         "data/ir_cron.xml",
     ],

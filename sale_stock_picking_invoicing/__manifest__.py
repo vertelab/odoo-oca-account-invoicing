@@ -9,7 +9,7 @@
     "category": "Warehouse Management",
     "license": "AGPL-3",
     "author": "Akretion, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/sale_stock_picking_invoicing",
     "version": "18.0.1.0.0",
     "maintainers": ["mbcosta", "renatonlima"],
     "depends": [

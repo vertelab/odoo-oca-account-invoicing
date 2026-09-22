@@ -6,7 +6,7 @@
     "version": "18.0.1.0.0",
     "development_status": "Beta",
     "category": "Accounting & Finance",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_tax_group_widget_base_amount",
     "author": "Tecnativa, Odoo Community Association (OCA)",
     "maintainers": ["chienandalu"],
     "license": "AGPL-3",

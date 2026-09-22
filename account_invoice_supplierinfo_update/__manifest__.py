@@ -10,7 +10,7 @@
     "the supplier price",
     "version": "18.0.1.1.0",
     "category": "Accounting & Finance",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_supplierinfo_update",
     "author": "Akretion, GRAP, Odoo Community Association (OCA)",
     "maintainers": ["legalsylvain"],
     "license": "AGPL-3",

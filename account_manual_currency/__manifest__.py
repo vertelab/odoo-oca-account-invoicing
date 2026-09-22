@@ -7,7 +7,7 @@
     "category": "Accounting & Finance",
     "summary": "Allows to manual currency of Accounting",
     "author": "Ecosoft, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_manual_currency",
     "license": "AGPL-3",
     "depends": ["account"],
     "data": [

@@ -7,7 +7,7 @@
     "version": "18.0.1.0.1",
     "development_status": "Alpha",
     "category": "Accounting/Accounting",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_move_auto_post_ref",
     "author": "Moduon, Odoo Community Association (OCA)",
     "maintainers": ["rafaelbn", "yajo"],
     "license": "LGPL-3",

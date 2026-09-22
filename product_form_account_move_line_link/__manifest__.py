@@ -7,7 +7,7 @@
         Adds a button on product forms to access Journal Items""",
     "version": "18.0.1.0.0",
     "author": "ForgeFlow, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/product_form_account_move_line_link",
     "category": "Account",
     "license": "AGPL-3",
     "depends": ["account"],

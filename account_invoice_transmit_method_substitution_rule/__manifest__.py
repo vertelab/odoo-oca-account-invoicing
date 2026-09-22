@@ -8,7 +8,7 @@
     "version": "18.0.1.0.0",
     "license": "AGPL-3",
     "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_transmit_method_substitution_rule",
     "depends": ["account_invoice_transmit_method"],
     "data": [
         "security/transmit_method_substitution_rule.xml",

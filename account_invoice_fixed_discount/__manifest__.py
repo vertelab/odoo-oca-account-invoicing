@@ -6,7 +6,7 @@
     "summary": "Allows to apply fixed amount discounts in invoices.",
     "version": "18.0.1.0.0",
     "category": "Accounting & Finance",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_fixed_discount",
     "author": "ForgeFlow, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,

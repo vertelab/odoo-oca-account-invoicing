@@ -7,7 +7,7 @@
     "summary": "Add an option to refund returned pickings",
     "version": "18.0.1.0.0",
     "category": "Purchases",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/purchase_stock_picking_return_invoicing",
     "author": "ForgeFlow, Tecnativa, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "installable": True,

@@ -7,7 +7,7 @@
     "summary": "Show currencies in the invoice tree view",
     "version": "18.0.1.0.0",
     "category": "Accounting & Finance",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_tree_currency",
     "depends": ["account"],
     "data": ["views/account_move_view.xml"],
     "license": "LGPL-3",

@@ -5,7 +5,7 @@
     "version": "18.0.1.0.0",
     "category": "Warehouse Management",
     "author": "Agile Business Group,Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/stock_picking_invoicing",
     "license": "AGPL-3",
     "depends": [
         "stock",

@@ -5,7 +5,7 @@
     "version": "18.0.1.0.0",
     "summary": "Base module for handling multiple partner invoicing mode",
     "author": "Camptocamp, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/partner_invoicing_mode",
     "license": "AGPL-3",
     "category": "Accounting & Finance",
     "depends": ["account", "base_partition", "queue_job", "sale"],

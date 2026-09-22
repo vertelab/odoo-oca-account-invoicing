@@ -7,7 +7,7 @@
     "version": "18.0.1.0.0",
     "author": "CreuBlanca, Moduon, Odoo Community Association (OCA)",
     "category": "Accounting & Finance",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_supplier_self_invoice",
     "license": "AGPL-3",
     "depends": ["account"],
     "data": [

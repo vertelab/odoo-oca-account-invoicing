@@ -6,7 +6,7 @@
                 as quantity to reinvoice""",
     "version": "18.0.1.0.0",
     "category": "Sales",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/sale_line_refund_to_invoice_qty",
     "author": "ForgeFlow, Odoo Community Association (OCA)",
     "license": "LGPL-3",
     "application": False,

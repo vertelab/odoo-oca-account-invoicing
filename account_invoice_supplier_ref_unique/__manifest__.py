@@ -7,7 +7,7 @@
     "summary": "Checks that supplier invoices are not entered twice",
     "author": "Savoir-faire Linux, Acsone SA/NV, Odoo Community Association (OCA)",
     "maintainer": "Savoir-faire Linux",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_supplier_ref_unique",
     "license": "AGPL-3",
     "category": "Accounting & Finance",
     "depends": ["account"],

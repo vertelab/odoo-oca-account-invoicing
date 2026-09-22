@@ -9,7 +9,7 @@
     "version": "18.0.1.0.0",
     "development_status": "Mature",
     "category": "Accounting & Finance",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_refund_link",
     "author": "Pexego, Tecnativa, Odoo Community Association (OCA)",
     "installable": True,
     "post_init_hook": "post_init_hook",

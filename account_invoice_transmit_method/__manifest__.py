@@ -10,7 +10,7 @@
     "summary": "Configure invoice transmit method (email, post, portal, ...)",
     "author": "Akretion, Odoo Community Association (OCA)",
     "maintainers": ["alexis-via"],
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_transmit_method",
     "depends": ["account", "base_view_inheritance_extension"],
     "data": [
         "security/ir.model.access.csv",

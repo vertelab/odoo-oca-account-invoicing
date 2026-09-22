@@ -7,7 +7,7 @@
     "category": "Sales Management",
     "license": "AGPL-3",
     "author": "Tecnativa, " "Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/sale_order_invoicing_grouping_criteria",
     "depends": ["sale_management"],
     "data": [
         "security/ir.model.access.csv",

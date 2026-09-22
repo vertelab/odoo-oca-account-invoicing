@@ -10,7 +10,7 @@
     "author": "Open Source Integrators, "
     "Serpent CS, "
     "Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_refund_reason",
     "data": [
         "security/ir.model.access.csv",
         "data/account.move.refund.reason.csv",

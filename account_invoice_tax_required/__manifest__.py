@@ -5,7 +5,7 @@
     "name": "Tax required in invoice",
     "version": "18.0.1.0.0",
     "author": "Camptocamp,Tecnativa,Punt Sistemes, " "Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/account-invoicing",
+    "website": "https://vertel.se/apps/odoo-oca-account-invoicing/account_invoice_tax_required",
     "category": "Localization / Accounting",
     "license": "AGPL-3",
     "summary": """This module adds functional a check on invoice to force user
