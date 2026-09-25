@@ -3,6 +3,17 @@
 
 {
     "name": "Account Move Cancel Confirm",
+    'summary': "Asks for confirmation before cancelling a journal entry.",
+    'description': '''
+Account Move Cancel Confirm
+===========================
+
+    Asks for confirmation before cancelling a journal entry.
+
+    Features:
+
+        - Focused Fix: A small, targeted improvement to standard Odoo behaviour.
+    ''',
     "version": "18.0.1.0.1",
     "author": "Ecosoft, Odoo Community Association (OCA)",
     "category": "Usability",

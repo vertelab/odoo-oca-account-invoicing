@@ -3,6 +3,18 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
     "name": "Account Global Discount",
+    'summary': "Adds global discounts to invoices.",
+    'description': '''
+Account Global Discount
+=======================
+
+    Adds global discounts to invoices.
+
+    Features:
+
+        - UI Integration: Extends 3 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on account.account, account.analytic.account, account.invoice.global.discount, account.move.
+    ''',
     "version": "18.0.1.0.0",
     "category": "Accounting",
     "author": "Tecnativa, Odoo Community Association (OCA)",

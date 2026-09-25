@@ -2,6 +2,18 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 {
     "name": "Account Move Tier Validation Approver",
+    'summary': "Adds tier validation approvers to journal entries.",
+    'description': '''
+Account Move Tier Validation Approver
+=====================================
+
+    Adds tier validation approvers to journal entries.
+
+    Features:
+
+        - UI Integration: Extends 3 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on account.move, tier.definition.
+    ''',
     "version": "18.0.1.0.0",
     "author": "ForgeFlow, Odoo Community Association (OCA)",
     "category": "Accounting",

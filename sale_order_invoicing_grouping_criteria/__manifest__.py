@@ -3,6 +3,18 @@
 
 {
     "name": "Sales order invoicing grouping criteria",
+    'summary': "Adds grouping criteria for sale order invoicing.",
+    'description': '''
+Sales order invoicing grouping criteria
+=======================================
+
+    Adds grouping criteria for sale order invoicing.
+
+    Features:
+
+        - UI Integration: Extends 3 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on sale.invoicing.grouping.criteria, sale.order.
+    ''',
     "version": "18.0.1.0.0",
     "category": "Sales Management",
     "license": "AGPL-3",

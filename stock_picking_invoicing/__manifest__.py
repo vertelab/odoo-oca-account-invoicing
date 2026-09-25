@@ -2,6 +2,19 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
     "name": "Stock Picking Invoicing",
+    'summary': "Adds invoicing to stock transfers.",
+    'description': '''
+Stock Picking Invoicing
+=======================
+
+    Adds invoicing to stock transfers.
+
+    Features:
+
+        - Guided Wizards: Step-by-step dialogs for data entry.
+        - UI Integration: Extends 3 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on account.move, stock.invoice.state.mixin, stock.move, stock.picking.
+    ''',
     "version": "18.0.1.0.0",
     "category": "Warehouse Management",
     "author": "Agile Business Group,Odoo Community Association (OCA)",

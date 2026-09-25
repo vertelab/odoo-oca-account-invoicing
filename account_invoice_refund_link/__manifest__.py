@@ -6,6 +6,19 @@
 
 {
     "name": "Show links between refunds and their originator invoices.",
+    'summary': "Links refunds to their original invoice.",
+    'description': '''
+Show links between refunds and their originator invoices.
+=========================================================
+
+    Links refunds to their original invoice.
+
+    Features:
+
+        - Guided Wizards: Step-by-step dialogs for data entry.
+        - UI Integration: Extends 1 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on account.move, account.move.line, origin_line_id.
+    ''',
     "version": "18.0.1.0.0",
     "development_status": "Mature",
     "category": "Accounting & Finance",

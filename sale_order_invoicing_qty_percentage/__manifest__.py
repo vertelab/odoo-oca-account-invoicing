@@ -4,6 +4,18 @@
 
 {
     "name": "Sales order invoicing by percentage of the quantity",
+    'summary': "Invoices a percentage of the ordered quantity.",
+    'description': '''
+Sales order invoicing by percentage of the quantity
+===================================================
+
+    Invoices a percentage of the ordered quantity.
+
+    Features:
+
+        - Guided Wizards: Step-by-step dialogs for data entry.
+        - Extends Odoo: Builds on sale.order.line.
+    ''',
     "version": "18.0.1.0.0",
     "category": "Sales Management",
     "license": "AGPL-3",

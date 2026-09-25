@@ -6,6 +6,19 @@
 
 {
     "name": "Sales Stock Picking Invocing",
+    'summary': "Invoices from stock transfers.",
+    'description': '''
+Sales Stock Picking Invocing
+============================
+
+    Invoices from stock transfers.
+
+    Features:
+
+        - Guided Wizards: Step-by-step dialogs for data entry.
+        - UI Integration: Extends 2 view(s) in the Odoo interface.
+        - Extends Odoo: Builds on sale.order, sale.order.line, stock.move, stock.picking.
+    ''',
     "category": "Warehouse Management",
     "license": "AGPL-3",
     "author": "Akretion, Odoo Community Association (OCA)",
